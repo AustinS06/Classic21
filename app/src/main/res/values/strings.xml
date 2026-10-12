@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">21 Classic</string>
+    <string name="play">Play</string>
+    <string name="rules">Rules</string>
+    <string name="hit">Hit</string>
+    <string name="stand">Stand</string>
+    <string name="new_hand">New Hand</string>
+    <string name="back">Back</string>
+    <string name="dealer">Dealer</string>
+    <string name="player">Player</string>
+    <string name="wins">Wins: %1$d</string>
+    <string name="losses">Losses: %1$d</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="rules_text">• Goal: Get as close to 21 as possible without going over.\n\n• Face cards (J, Q, K) = 10\n• Aces = 1 or 11 (whichever is better)\n\n• Hit = take another card\n• Stand = keep your current hand\n\n• Dealer must hit on 16 or lower and stand on 17 or higher.\n\n• If you go over 21 you bust and lose.\n• Highest hand without busting wins.\n• Same total = Push (tie).</string>
+</resources>
